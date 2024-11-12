@@ -67,4 +67,7 @@ export const dynamic = 'force-dynamic'; 추가로 해결
                                            | external service     |
                                            +----------------------+
 
+
+https://www.reddit.com/r/java/comments/17fztht/lightweight_but_powerful_java_stack/
+
 ```
